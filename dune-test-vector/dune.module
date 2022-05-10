@@ -1,0 +1,12 @@
+################################
+# Dune module information file #
+################################
+
+# Name of the module
+Module: dune-test-vector
+Version: 1.0
+Maintainer: a@a
+# Required build dependencies
+Depends: dune-matrix-vector
+# Optional build dependencies
+#Suggests:
